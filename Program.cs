@@ -8,8 +8,19 @@ namespace WeaponSystem
 {
     class Program
     {
+        static int health;
+        static int[] weaponAmmo = new int[3];
+        static string[] weaponName = new string[3];
+
+
         static void Main(string[] args)
         {
+            Console.WriteLine("WeaponSystem");
+
+            Weapon
+
+
+
         }
     }
 }
